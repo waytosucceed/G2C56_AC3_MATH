@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "A group of kids came to buy action hero toys. If they want to share the toy equally among 4 kids, write the division equation for this.",
+    "options":["","÷",""],
+    "answers": ["4","÷","4"],
+    "secondImg":"./images/11.png"
+
+  },
+  {
+    "questionNo": 2,
+    "question": " A customer visited the toy store to buy stuffed animals to share them among 3 kids, write the division equation for this.",
+    "options":["","÷",""],
+    "answers": ["6","÷","3"],
+    "secondImg":"./images/12.png"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "A group of 4 friends came to buy puzzles to share equally among themselves. Write the division equation for this.",
+    "options":["","÷",""],
+    "answers": ["8","÷","4"],
+    "secondImg":"./images/13.png"
+  },
+  {
+    "questionNo": 4,
+    "question": "Divide the toy cars among 2 children equally and fill in the given blanks.",
+    "options":["","÷",""],
+    "answers": ["8","÷","2"],
+    "secondImg":"./images/14.png"
+  },
+  {
+    "questionNo": 5,
+    "question": "A group of friends came to buy board games to share equally among themselves. Fill in the blank to complete the equation.",
+    "options":["","÷",""],
+    "answers": ["10","÷","2"],
+    "secondImg":"./images/15.png"
+  },
+  {
+    "questionNo": 6,
+    "question": "A customer wants to buy dolls as a return gift for her daughter's birthday. Divide the dolls equally among 4 girls.",
+    "options":["","÷",""],
+    "answers": ["12","÷","4"],
+    "secondImg":"./images/16.png"
+  },
+  {
+    "questionNo": 7,
+    "question": "Divide the chess game equally between 2 kids and fill in the empty blanks. ",
+    "options":["","÷",""],
+    "answers": ["16","÷","2"],
+    "secondImg":"./images/17.png"
+  },
+  {
+    "questionNo": 8,
+    "question": "Fill in the blanks after sharing the teddy bears equally among 3 children.",
+    "options":["","÷",""],
+    "answers": ["15","÷","3"],
+    "secondImg":"./images/18.png"
+  },
+  {
+    "questionNo": 9,
+    "question": "Divide the 9 toy trains equally among 3 friends and fill in the given blanks.",
+    "options":["","÷",""],
+    "answers": ["9","÷","3"],
+    "secondImg":"./images/19.png"
+  },
+  {
+    "questionNo": 10,
+    "question": "A group of friends came to buy fidget spinners to share them equally among themselves. Write the division equation for this.",
+    "options":["","÷",""],
+    "answers": ["15","÷","5"],
+    "secondImg":"./images/20.png"
+  }
+]
